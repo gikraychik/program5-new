@@ -1,0 +1,1 @@
+Program 5 "MATRISA". Fully based on program3 "NITA". PWM_PERCENT changes manually in VIDEO_MODE == 0. Temperatures: [10, 30]. Administration mode is the same as users' one. Branch master contains code appropriate due to the documentation. Branch 'alt' contains code with reverse indicators. Declar.txt didn't change.
